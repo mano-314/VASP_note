@@ -22,5 +22,5 @@ For band structures, we perform NSCF calculation on particular k-path of interes
 <br>
 Take home message <br>
 The summation of pDOS is not equal to total DOS. What is missing ?
-![](results/dos/fig_pdos.png)
+![](<results/dos/fig_pdos.png>)
 
