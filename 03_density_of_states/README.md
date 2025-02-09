@@ -22,5 +22,4 @@ For band structures, we perform NSCF calculation on particular k-path of interes
 <br>
 Take home message <br>
 The summation of pDOS is not equal to total DOS. What is missing ?
-![](<results/dos/fig_pdos.png>)
-
+![](https://github.com/mano-314/VASP_note/blob/main/03_density_of_states/results/dos/fig_pdos.png)
