@@ -1,4 +1,5 @@
-In this section, we will see how to control the accuracy of our calculations. It is easy to get a number from the calculation. However, to get an "approproate" number is not that always easy. 
+In this section, we will see how to control the accuracy of our calculations. <br>
+It is easy to get a number from the calculation. However, to get an "approproate" number is not that always easy. 
 For plane wave calculation, the plane wave at each k-point ($\mathbf{k}$) will follow 
 
 $$\displaystyle \frac{\hbar}{2m_e}|\mathbf{G}+\mathbf{k}|^2 < E_{cutoff}$$

@@ -17,3 +17,10 @@ The projection of plane wave on spherical harmonics is also possible to see the 
 For the post-process of the DOSCAR file, one can write the script to extract and plot, or use the external tool such as [VASPKIT #dos](https://vaspkit.com/tutorials.html#density-of-states). 
 
 For band structures, we perform NSCF calculation on particular k-path of interest. To generate k-path one can see the tutorial in [VASPKIT #band](https://vaspkit.com/tutorials.html#band-structure). The information of eigen states (energy level, band structures) are contained in [EIGENVAL](https://www.vasp.at/wiki/index.php/EIGENVAL) and [PROCAR](https://www.vasp.at/wiki/index.php/PROCAR). One can write the script or use external tool such as [VASPKIT #band](https://vaspkit.com/tutorials.html#band-structure) or [py4vasp](https://www.vasp.at/py4vasp/latest/) to extract the information from output files.
+
+
+<br>
+Take home message <br>
+The summation of pDOS is not equal to total DOS. What is missing ?
+![](results/dos/fig_pdos.png)
+
