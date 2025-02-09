@@ -1,0 +1,25 @@
+SYSTEM  = hBN
+PREC    = Normal
+NWRITE  = 2
+ISTART  = 0
+ICHARG  = 11
+LWAVE   = F
+LCHARG  = F
+LAECHG  = F
+ALGO    = Fast
+ISYM    = 1
+
+NSW     = 0
+EDIFF   =  1E-5
+EDIFFG  = -1E-2
+IBRION  = -1
+ISIF    = 2
+POTIM   = 0.5
+
+ENCUT   = 500
+ISMEAR  = 0
+SIGMA   = 0.1
+ISPIN   = 2
+IVDW    = 11
+
+LORBIT  = 11

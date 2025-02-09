@@ -1,0 +1,26 @@
+SYSTEM  = water
+PREC    = Normal
+NWRITE  = 2
+ISTART  = 0
+ICHARG  = 2
+LWAVE   = F
+LCHARG  = T
+LAECHG  = F
+ALGO    = Fast
+ISYM    = 1
+
+NSW     = 1
+IBRION  = 5
+POTIM   = 0.015
+NFREE = 2
+
+EDIFF   =  1E-5
+EDIFFG  = -1E-2
+ISIF    = 2
+
+ENCUT   = 500
+ISMEAR  = 0
+SIGMA   = 0.1
+ISPIN   = 2
+IVDW    = 11
+
